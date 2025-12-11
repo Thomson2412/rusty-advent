@@ -1,0 +1,8 @@
+[package]
+name = "advent-of-code-2025"
+
+[dependencies]
+itertools = "0.13"
+# regex = "1.10"
+# rayon = "1.10"
+# pathfinding = "4.10"
